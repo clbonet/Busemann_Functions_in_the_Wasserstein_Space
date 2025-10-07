@@ -1,0 +1,2 @@
+- Run the notebook `Comparison_trajectories.ipynb` to reproduce Figure 2.
+- For Figure 3, you can first run `./run_convergence.sh` and then the notebook `Plot_convergence.ipnb`
