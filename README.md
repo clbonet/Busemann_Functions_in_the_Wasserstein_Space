@@ -10,11 +10,11 @@ The Busemann function has recently found much interest in a variety of geometric
 ## Citation
 
 ```
-@article{bonet2025busemann,
-  title={{Busemann Functions in the Wasserstein Space: Existence, Closed-Forms, and Applications to Slicing}},
-  author={Bonet, Clément and Cazelles, Elsa and Drumetz, Lucas and Courty, Nicolas},
-  journal={arXiv preprint arXiv:2510.04579},
-  year={2025}
+@inproceedings{bonet2026busemann,
+    title={{Busemann Functions in the Wasserstein Space: Existence, Closed-Forms, and Applications to Slicing}},
+    author={Clément Bonet and Elsa Cazelles and Lucas Drumetz and Nicolas Courty},
+    year={2026},
+    booktitle={The 29th International Conference on Artificial Intelligence and Statistics}
 }
 ```
 
